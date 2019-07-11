@@ -1,0 +1,3 @@
+[submodule "lib/CypressRobotics.CAN"]
+	path = lib/CypressRobotics.CAN
+	url = git@github.com:CypressControls/CypressRobotics.CAN
